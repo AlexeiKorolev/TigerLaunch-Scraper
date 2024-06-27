@@ -1,4 +1,4 @@
-##TigerLaunch Webscraper and Analyzer
+# TigerLaunch Webscraper and Analyzer
 
 This project uses the Selenium chrome driver and pandas to quickly gather and organize the contact details of Princeton alumni to 
 significantly reduce the workload needed for our partnership outreach officers. It integrates pyside for a simple desktop
