@@ -1,0 +1,7 @@
+PyQt5
+bs4
+selenium
+webdriver_manager
+pandas
+Firebase
+firebase_admin
